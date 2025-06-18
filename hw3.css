@@ -1,0 +1,30 @@
+element.style {
+    color: red;
+}
+.red {
+    color: red;
+}
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+element.style {
+    color: green;
+}
+.green {
+    color: green;
+}
+element.style {
+    color: green;
+}
+li.blue {
+    color: blue;
+}
+.red {
+    color: red;
+}
